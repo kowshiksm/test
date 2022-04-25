@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:namedConfiguration ns1:CLASS_NAME="com.fiorano.adapter.db.jdbc.DBConfigurations" xmlns:ns2="uri:com.fiorano.services.common.jaxb.adapter" xmlns:ns1="uri:com.fiorano.adapter.db.jdbc">
+    <ns1:passwordFromVault>false</ns1:passwordFromVault>
+    <ns1:customPasswordEncryption>false</ns1:customPasswordEncryption>
+    <ns1:database>Microsoft SQL Server 2012</ns1:database>
+    <ns1:driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</ns1:driver>
+    <ns1:url>jdbc:sqlserver://&lt;hostname&gt;:1433;databaseName=&lt;databaseName&gt;</ns1:url>
+    <ns1:username>scott</ns1:username>
+    <ns1:password>ikzspkgOxe7cbkA3VxEoxg==</ns1:password>
+    <ns1:pingSQL>select 1</ns1:pingSQL>
+    <ns1:connectionProperties/>
+</ns1:namedConfiguration>

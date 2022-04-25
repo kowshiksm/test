@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8'?><configurations><configuration name="MessageEncryptionConfiguration" dataType="text" label="testing" resourceType="com.fiorano.services.common.security.MessageEncryptionConfiguration" /><configuration name="fpsConnectionConfiguration" dataType="text" label="testing" resourceType="com.fiorano.services.libraries.jms.configuration.ConnectionConfiguration" /></configurations>
+=======
+<?xml version='1.0' encoding='UTF-8'?><configurations><configuration name="MessageEncryptionConfiguration" dataType="text" label="testing" resourceType="com.fiorano.services.common.security.MessageEncryptionConfiguration" /><configuration name="fpsConnectionConfiguration" dataType="text" label="testing" resourceType="com.fiorano.services.libraries.jms.configuration.ConnectionConfiguration" /><configuration name="configureNew" dataType="text" label="testing" resourceType="com.fiorano.adapter.db.jdbc.DBConfigurations" /></configurations>
+>>>>>>> branch 'master' of https://github.com/kowshiksm/test
